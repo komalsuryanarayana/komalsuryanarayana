@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://giphy.com/gifs/animated-gif-animation-sRFEa8lbeC7zbcIZZR](https://th.bing.com/th/id/R.1602b26c05ee78120695d592a68b8912?rik=9O1u%2bLpA2RRIQw&riu=http%3a%2f%2fwww.textures4photoshop.com%2ftex%2fthumbs%2fmatrix-code-animation-gif-free-animated-background-716.gif&ehk=WUVCioIV7kR5uuDGvMDZqWHy7xCswZFIHgwKQewHnS4%3d&risl=&pid=ImgRaw&r=0))
 <h1 align="center">Hi 👋, I'm Gade Komal Suryanarayana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/utch-man-viewed-from-side-behind-laptop-02-copy-5-01_961307-1185.jpg")
