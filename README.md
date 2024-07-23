@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gade Komal Suryanarayana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/utch-man-viewed-from-side-behind-laptop-02-copy-5-01_961307-1185.jpg")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsuryanarayana&label=Profile%20views&color=0e75b6&style=flat" alt="komalsuryanarayana" /> </p>
@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalsuryanarayana&show_icons=true&locale=en" alt="komalsuryanarayana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalsuryanarayana&" alt="komalsuryanarayana" /></p>
