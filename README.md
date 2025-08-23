@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gade Komal Suryanarayana</h1>
 <h3 align="center">A passionate developer </h3>
-<img align="right" alt="Coding" width="400" src="https://postimg.cc/PpHNvyW6")
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1CevSIYwUQcZiCKz-6aYc3Mgg4xbl3Z5l/view?usp=sharing")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsuryanarayana&label=Profile%20views&color=0e75b6&style=flat" alt="komalsuryanarayana" /> </p>
 
